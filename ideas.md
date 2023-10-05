@@ -1,9 +1,8 @@
 # Projects
 
-#Crop Yield Prediction:
-
-#Predict crop yields for specific 
-#agricultural products based on environmental 
+Crop Yield Prediction:
+Predict crop yields for specific 
+agricultural products based on environmental 
 #conditions, soil quality, and historical data.
 
 dataset: Hannah Ritchie, Pablo Rosado and Max Roser (2022) - "Crop Yields". 
