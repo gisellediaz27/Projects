@@ -1,9 +1,0 @@
-#
-#Proyecto by Giselle Diaz
-#Outbreak Detection and Early Warning System:
-#  Task: Anomaly Detection
-#Objective: Develop a model to detect unusual patterns or spikes in reported illnesses 
-#that could indicate the emergence of a potential foodborne illness outbreak. 
-#This can serve as an early warning system for public health agencies.
-
-#dataset:Foodalgo en el github
